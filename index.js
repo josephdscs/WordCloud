@@ -21,12 +21,17 @@ app.get('/', function (req, res) {
 	res.sendFile(path.join(__dirname + '/index.html'));
 });
 
+
+app.get('/favicon.ico', function (req, res) {
+	res.status("204");
+});
+
 app.get('/api', function (req, res) {
 	res.sendFile(path.join(__dirname + '/index.html'));
 });
 
 function readMyFile(file, callback) {
-    fs.readFile('answersRes.json', 'utf8', callback(data))
+	fs.readFile('answersRes.json', 'utf8', callback(data))
 }
 
 app.listen(port)
