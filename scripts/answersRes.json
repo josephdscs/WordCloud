@@ -1,0 +1,1004 @@
+[{
+    "breakdownName": "total",
+    "relatedArticleDataList": [{
+            "articleData": {
+                "value": 120253,
+                "comparedValue": 106939,
+                "type": 20,
+                "id": "94a29d5f-32c6-49de-82e9-b83778b27432",
+                "title": "Contacting Wix by Phone",
+                "uri": "/article/contacting-wix-by-phone-3491545"
+            },
+            "ticketsData": {
+                "value": 3294,
+                "comparedValue": 2518,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 20508,
+                "comparedValue": 21538,
+                "type": 20,
+                "id": "ac7db61c-4b9e-4d85-bfc2-f00218f0cefa",
+                "title": "Checking if Your Premium Plan is Refundable",
+                "uri": "/article/checking-if-your-premium-plan-is-refundable"
+            },
+            "ticketsData": {
+                "value": 2747,
+                "comparedValue": 2594,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 8495,
+                "comparedValue": 7243,
+                "type": 20,
+                "id": "14f00abb-984b-4740-926d-b8cea2cfb161",
+                "title": "Viewing Invoices for Wix Services",
+                "uri": "/article/viewing-invoices-for-wix-services"
+            },
+            "ticketsData": {
+                "value": 2393,
+                "comparedValue": 1643,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 2995,
+                "comparedValue": 3257,
+                "type": 20,
+                "id": "f4960f50-647d-451d-a87e-85bd7a911fc6",
+                "title": "Adding a Screenshot to a Ticket",
+                "uri": "/article/adding-a-screenshot-to-a-ticket"
+            },
+            "ticketsData": {
+                "value": 2150,
+                "comparedValue": 1384,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 15,
+                "comparedValue": 3,
+                "type": 20,
+                "id": "48ed715c-9d4d-4079-89a5-34af576639ed",
+                "title": "(Internal) Account Access: Wrong Wix Login or Confirming Login Credentials",
+                "uri": "/article/internal-account-access-wrong-wix-login-or-confirming-login-credentials"
+            },
+            "ticketsData": {
+                "value": 1944,
+                "comparedValue": 13,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 24817,
+                "comparedValue": 26546,
+                "type": 20,
+                "id": "5358847b-2d40-4fb7-bb04-b562b91758e7",
+                "title": "Assigning a Premium Plan to a Different Site in Your Wix Account",
+                "uri": "/article/assigning-a-premium-plan-to-a-different-site-in-your-wix-account"
+            },
+            "ticketsData": {
+                "value": 1830,
+                "comparedValue": 1673,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 12802,
+                "comparedValue": 12302,
+                "type": 20,
+                "id": "e817d0cb-22a2-4ed1-a3e0-f24603999aa7",
+                "title": "About Domain Propagation",
+                "uri": "/article/about-domain-propagation"
+            },
+            "ticketsData": {
+                "value": 1829,
+                "comparedValue": 1084,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 6977,
+                "comparedValue": 8195,
+                "type": 20,
+                "id": "0d6d4c3b-6ca6-4cea-80c3-eb88a9f62fd2",
+                "title": "Turning Off the Auto Renewal for a Wix Premium Plan",
+                "uri": "/article/turning-off-the-auto-renewal-for-a-wix-premium-plan"
+            },
+            "ticketsData": {
+                "value": 1798,
+                "comparedValue": 1899,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 79035,
+                "comparedValue": 81146,
+                "type": 20,
+                "id": "88f9af56-d2c4-47e7-8d9c-3d831da6f5f5",
+                "title": "Connecting a Domain Purchased Elsewhere",
+                "uri": "/article/connecting-a-domain-purchased-elsewhere"
+            },
+            "ticketsData": {
+                "value": 1753,
+                "comparedValue": 1482,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 15903,
+                "comparedValue": 17648,
+                "type": 20,
+                "id": "f62dcd44-5c38-4b28-b6b3-e063f55b4f63",
+                "title": "Unable to Sign In to Your Wix Account: Forgot Password",
+                "uri": "/article/unable-to-sign-in-to-your-wix-account-forgot-password"
+            },
+            "ticketsData": {
+                "value": 1711,
+                "comparedValue": 1198,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 5,
+                "comparedValue": 16,
+                "type": 20,
+                "id": "ebe6b79e-550b-4586-a1e2-e9d23810e622",
+                "title": "(Internal) Account Access: Premium Account Access",
+                "uri": "/article/internal-account-access-premium-account-access"
+            },
+            "ticketsData": {
+                "value": 1347,
+                "comparedValue": 56,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 27395,
+                "comparedValue": 36377,
+                "type": 20,
+                "id": "3893d48d-5736-490f-8663-5c675b16200b",
+                "title": "Upgrading Your Site to Premium",
+                "uri": "/article/upgrading-your-site-to-premium-3066683"
+            },
+            "ticketsData": {
+                "value": 1334,
+                "comparedValue": 1134,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 8890,
+                "comparedValue": 6030,
+                "type": 20,
+                "id": "3ae922bb-f2f4-4e7f-94ae-433a64e9e51a",
+                "title": "Refund Policy for Premium Plans",
+                "uri": "/article/refund-policy-for-premium-plans"
+            },
+            "ticketsData": {
+                "value": 1256,
+                "comparedValue": 661,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 13,
+                "comparedValue": 7,
+                "type": 20,
+                "id": "3cc21c85-2f45-4e1a-9820-ac6945d2d7f0",
+                "title": "(Internal) Multiple Tickets from Single User",
+                "uri": "/article/internal-multiple-tickets-from-single-user"
+            },
+            "ticketsData": {
+                "value": 1237,
+                "comparedValue": 626,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 4359,
+                "comparedValue": 4880,
+                "type": 20,
+                "id": "7d7ffe6c-491a-4d98-8af2-87f09d66e17e",
+                "title": "Opening Your Browser in Incognito/Private Browsing Mode",
+                "uri": "/article/opening-your-browser-in-incognitoprivate-browsing-mode"
+            },
+            "ticketsData": {
+                "value": 984,
+                "comparedValue": 518,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 58671,
+                "comparedValue": 72819,
+                "type": 20,
+                "id": "e72873df-9108-4665-a12b-6b077e9d453f",
+                "title": "Connecting a Domain to the Wix Name Servers",
+                "uri": "/article/connecting-a-domain-to-the-wix-name-servers"
+            },
+            "ticketsData": {
+                "value": 948,
+                "comparedValue": 530,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 21709,
+                "comparedValue": 18966,
+                "type": 20,
+                "id": "b9cf3df0-18ab-4733-b5cc-44167e8adf84",
+                "title": "Transferring Your Wix Domain Away from Wix",
+                "uri": "/article/transferring-your-wix-domain-away-from-wix-2477749"
+            },
+            "ticketsData": {
+                "value": 882,
+                "comparedValue": 815,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 24317,
+                "comparedValue": 26760,
+                "type": 20,
+                "id": "93269015-9304-4f05-9cc4-1380967c0a87",
+                "title": "Connecting a Domain to Wix Using Pointing",
+                "uri": "/article/connecting-a-domain-to-wix-using-pointing-5342238"
+            },
+            "ticketsData": {
+                "value": 878,
+                "comparedValue": 740,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 10740,
+                "comparedValue": 14027,
+                "type": 20,
+                "id": "0a58260b-116a-40a1-82cb-412807b9f22c",
+                "title": "Removing a Domain from Your Wix Account",
+                "uri": "/article/removing-a-domain-from-your-wix-account"
+            },
+            "ticketsData": {
+                "value": 875,
+                "comparedValue": 662,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 45301,
+                "comparedValue": 47563,
+                "type": 20,
+                "id": "2a80c066-8f86-459f-85ef-c59d0128ffcd",
+                "title": "Transferring a Domain Purchased Elsewhere to Wix",
+                "uri": "/article/transferring-a-domain-purchased-elsewhere-to-wix"
+            },
+            "ticketsData": {
+                "value": 860,
+                "comparedValue": 707,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 29,
+                "comparedValue": 28,
+                "type": 20,
+                "id": "ef897594-2623-4a35-9db8-cb14cc1e174a",
+                "title": "(Internal) Search for Unknown Charge",
+                "uri": "/article/internal-search-for-unknown-charge"
+            },
+            "ticketsData": {
+                "value": 854,
+                "comparedValue": 489,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 28226,
+                "comparedValue": 31277,
+                "type": 20,
+                "id": "805f84fc-e1e4-44df-837d-37207132ed2e",
+                "title": "Wix Name Server Records",
+                "uri": "/article/wix-name-server-records"
+            },
+            "ticketsData": {
+                "value": 840,
+                "comparedValue": 951,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 48067,
+                "comparedValue": 37983,
+                "type": 20,
+                "id": "8ec212e3-114d-4b8c-9e1e-ec5634b20cb8",
+                "title": "Adding HTML Code",
+                "uri": "/article/adding-html-code"
+            },
+            "ticketsData": {
+                "value": 839,
+                "comparedValue": 718,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 10888,
+                "comparedValue": 6194,
+                "type": 20,
+                "id": "093d060d-02a1-40cd-8ba4-46168f2e3e3e",
+                "title": "Unable to Access Your Live Site",
+                "uri": "/article/unable-to-access-your-live-site"
+            },
+            "ticketsData": {
+                "value": 839,
+                "comparedValue": 147,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 5617,
+                "comparedValue": 4816,
+                "type": 20,
+                "id": "12531907-d8fd-4468-89bb-ee8f04754a16",
+                "title": "Cancelling a Wix Domain",
+                "uri": "/article/cancelling-a-wix-domain"
+            },
+            "ticketsData": {
+                "value": 815,
+                "comparedValue": 734,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 3059,
+                "comparedValue": 3823,
+                "type": 20,
+                "id": "e6db14fb-2433-4bc2-a9f4-3338da87e265",
+                "title": "Editor Issues",
+                "uri": "/article/editor-issues"
+            },
+            "ticketsData": {
+                "value": 779,
+                "comparedValue": 354,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 109760,
+                "comparedValue": 95869,
+                "type": 20,
+                "id": "c61857c1-9b9f-48f8-ae8b-c46c74427ec8",
+                "title": "Publishing Your Site",
+                "uri": "/article/publishing-your-site-6980885"
+            },
+            "ticketsData": {
+                "value": 776,
+                "comparedValue": 577,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 8151,
+                "comparedValue": 9285,
+                "type": 20,
+                "id": "84590ba1-1da3-4b8a-919d-59f8ecce045e",
+                "title": "Assigning a Domain to Your Wix Site",
+                "uri": "/article/assigning-a-domain-to-your-wix-site"
+            },
+            "ticketsData": {
+                "value": 752,
+                "comparedValue": 691,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 45624,
+                "comparedValue": 47610,
+                "type": 20,
+                "id": "76c19983-c7ea-4202-bb31-60250fdd9d65",
+                "title": "Purchasing a Domain from Wix",
+                "uri": "/article/purchasing-a-domain-from-wix-3133977"
+            },
+            "ticketsData": {
+                "value": 745,
+                "comparedValue": 573,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 1844,
+                "comparedValue": 1783,
+                "type": 20,
+                "id": "1bf74270-add1-41ea-93c0-dc7ebf8b6b4a",
+                "title": "Wix Site and Content Ownership",
+                "uri": "/article/wix-site-and-content-ownership"
+            },
+            "ticketsData": {
+                "value": 745,
+                "comparedValue": 599,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 19083,
+                "comparedValue": 49379,
+                "type": 20,
+                "id": "50ec87fa-a4b9-41f9-ba03-0c5b67a1a02e",
+                "title": "Calling Wix Support",
+                "uri": "/article/calling-wix-support"
+            },
+            "ticketsData": {
+                "value": 744,
+                "comparedValue": 486,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 1,
+                "comparedValue": 3,
+                "type": 20,
+                "id": "e6d9bd64-4991-473c-9d63-e8b156c3c7d9",
+                "title": "(Internal) Account Access: Free Account Access",
+                "uri": "/article/internal-account-access-free-account-access"
+            },
+            "ticketsData": {
+                "value": 744,
+                "comparedValue": 23,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 45354,
+                "comparedValue": 32141,
+                "type": 20,
+                "id": "8d62a3cd-3a66-4a94-a97c-22c4d7e44524",
+                "title": "Transferring Site Ownership to Another Wix Account",
+                "uri": "/article/transferring-site-ownership-to-another-wix-account"
+            },
+            "ticketsData": {
+                "value": 699,
+                "comparedValue": 562,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 90,
+                "comparedValue": 3,
+                "type": 20,
+                "id": "2fe9a9d3-6930-4b20-9617-685a97c10ac2",
+                "title": "(Internal) Clear Cookies/ Cache- [Editor]",
+                "uri": "/article/internal-clear-cookies-cache-editor"
+            },
+            "ticketsData": {
+                "value": 696,
+                "comparedValue": 4,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 12020,
+                "comparedValue": 12585,
+                "type": 20,
+                "id": "dcb11e46-a500-4379-b62d-7613ed540f97",
+                "title": "Assigning Your Domain to a Different Site in Your Account",
+                "uri": "/article/assigning-your-domain-to-a-different-site-in-your-account"
+            },
+            "ticketsData": {
+                "value": 678,
+                "comparedValue": 563,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 2989,
+                "comparedValue": 3077,
+                "type": 20,
+                "id": "fed5bcfe-9730-407a-98ae-5991cabd0e37",
+                "title": "Saving Issues",
+                "uri": "/article/saving-issues-9676927"
+            },
+            "ticketsData": {
+                "value": 673,
+                "comparedValue": 285,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 11968,
+                "comparedValue": 12842,
+                "type": 20,
+                "id": "6c891538-c583-45dd-a3bb-fe0f70981a43",
+                "title": "Adding or Updating MX Records in Your Wix Account",
+                "uri": "/article/adding-or-updating-mx-records-in-your-wix-account"
+            },
+            "ticketsData": {
+                "value": 663,
+                "comparedValue": 438,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 2474,
+                "comparedValue": 2008,
+                "type": 20,
+                "id": "04639f13-0789-4fd0-912c-dbaf414babd6",
+                "title": "Refund Policy for Wix Domains",
+                "uri": "/article/refund-policy-for-wix-domains"
+            },
+            "ticketsData": {
+                "value": 663,
+                "comparedValue": 487,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 6956,
+                "comparedValue": 9489,
+                "type": 20,
+                "id": "2537a281-dd4c-4f44-bb3e-a9cb9441ec84",
+                "title": "Unable to Sign In to Your Wix Account: Can't Access Email Account",
+                "uri": "/article/unable-to-sign-in-to-your-wix-account-cant-access-email-account"
+            },
+            "ticketsData": {
+                "value": 660,
+                "comparedValue": 781,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 8602,
+                "comparedValue": 7019,
+                "type": 20,
+                "id": "4494214f-4a87-4c36-8a27-bf073947a901",
+                "title": "Updating the Payment Details of Your Wix Account",
+                "uri": "/article/updating-the-payment-details-of-your-wix-account"
+            },
+            "ticketsData": {
+                "value": 627,
+                "comparedValue": 590,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 38808,
+                "comparedValue": 33520,
+                "type": 20,
+                "id": "58c60d11-989e-4f4f-aa75-d38401f04920",
+                "title": "Deleting Your Wix Account",
+                "uri": "/article/deleting-your-wix-account"
+            },
+            "ticketsData": {
+                "value": 618,
+                "comparedValue": 439,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 935,
+                "comparedValue": 988,
+                "type": 20,
+                "id": "40dc0ecd-bb8f-4a36-b7ff-8e8ec2b3fdf1",
+                "title": "Cancelling Your Premium Plan and Domain",
+                "uri": "/article/cancelling-your-premium-plan-and-domain"
+            },
+            "ticketsData": {
+                "value": 600,
+                "comparedValue": 448,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 92985,
+                "comparedValue": 82492,
+                "type": 20,
+                "id": "0bdfcec6-a05e-4604-be55-cacd7e912259",
+                "title": "Contacting Wix Support",
+                "uri": "/article/contacting-wix-support"
+            },
+            "ticketsData": {
+                "value": 598,
+                "comparedValue": 728,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 4122,
+                "comparedValue": 4633,
+                "type": 20,
+                "id": "f1dbd56c-e0c2-4501-85c0-39a443873fa3",
+                "title": "Cancelling a G Suite Mailbox",
+                "uri": "/article/cancelling-a-g-suite-mailbox"
+            },
+            "ticketsData": {
+                "value": 597,
+                "comparedValue": 606,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 8438,
+                "comparedValue": 8078,
+                "type": 20,
+                "id": "9980685e-39b7-404a-9a0e-c93507c41350",
+                "title": "Connecting a Wix Domain to an External Site",
+                "uri": "/article/connecting-a-wix-domain-to-an-external-site"
+            },
+            "ticketsData": {
+                "value": 593,
+                "comparedValue": 497,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 14555,
+                "comparedValue": 14691,
+                "type": 20,
+                "id": "b7921ab8-85a7-40f6-81a2-603257881601",
+                "title": "Connecting Multiple Domains to One Wix Site",
+                "uri": "/article/connecting-multiple-domains-to-one-wix-site"
+            },
+            "ticketsData": {
+                "value": 564,
+                "comparedValue": 492,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 5894,
+                "comparedValue": 6371,
+                "type": 20,
+                "id": "bac96145-7294-4ad0-8734-7aca65338bda",
+                "title": "Purchasing a Domain vs. Purchasing a Premium Plan",
+                "uri": "/article/purchasing-a-domain-vs-purchasing-a-premium-plan"
+            },
+            "ticketsData": {
+                "value": 553,
+                "comparedValue": 331,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 27574,
+                "comparedValue": 26873,
+                "type": 20,
+                "id": "00589c7e-9688-493b-9847-f5ed434f5fd6",
+                "title": "DNS Records Needed to Connect Your Domain to Wix",
+                "uri": "/article/dns-records-needed-to-connect-your-domain-to-wix"
+            },
+            "ticketsData": {
+                "value": 540,
+                "comparedValue": 574,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 17457,
+                "comparedValue": 17104,
+                "type": 20,
+                "id": "dedde78e-5a24-46b8-831d-78df6ddfa1ab",
+                "title": "Understanding Site Loading Time",
+                "uri": "/article/understanding-site-loading-time"
+            },
+            "ticketsData": {
+                "value": 516,
+                "comparedValue": 446,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        },
+        {
+            "articleData": {
+                "value": 6369,
+                "comparedValue": 726,
+                "type": 20,
+                "id": "0cd4c6d8-40ed-4207-91e8-0147292bf85b",
+                "title": "Changing to a Lower Level Premium Plan",
+                "uri": "/article/changing-to-a-lower-level-premium-plan"
+            },
+            "ticketsData": {
+                "value": 514,
+                "comparedValue": 237,
+                "type": 30
+            },
+            "voteCount": {
+                "value": 0,
+                "comparedValue": 0,
+                "type": 22
+            }
+        }
+    ]
+}]
