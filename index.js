@@ -23,7 +23,7 @@ app.get('/', function (req, res) {
 
 
 app.get('/favicon.ico', function (req, res) {
-	res.status("204");
+	res.send(204);
 });
 
 app.get('/api', function (req, res) {
