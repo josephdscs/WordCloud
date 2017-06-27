@@ -1,0 +1,22 @@
+{
+  "name": "word_cloud",
+  "version": "1.0.0",
+  "description": "Word cloud implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephdscs/WordCloud.git"
+  },
+  "dependencies": {
+    "express": "*"
+  },
+  "author": "JosephDSCS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephdscs/WordCloud/issues"
+  },
+  "homepage": "https://github.com/josephdscs/WordCloud#readme"
+}
